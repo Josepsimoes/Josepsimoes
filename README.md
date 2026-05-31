@@ -53,15 +53,3 @@
 
 ---
 
-### 📈 GitHub Analytics
-
-<div align="center">
-
-[![José's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Josepsimoes&show_icons=true&theme=radical&hide_border=true)](https://github.com/Josepsimoes)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Josepsimoes&layout=compact&theme=radical&hide_border=true)](https://github.com/Josepsimoes)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=013243&height=100&section=footer" alt="Footer Banner" />
-</div>
