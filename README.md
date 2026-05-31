@@ -32,9 +32,9 @@
 
 - 📉 **Risk Modeling & Analytics:** Developing robust Python infrastructure to calculate and monitor critical risk metrics, including historical/parametric VaR, CVaR, and executing complex Monte Carlo simulations for asset comparison.
 - 🏦 **Asset Valuation & Alpha Generation:** Integrating quantitative frameworks with deep fundamental analysis (aligned with CNPI standards) for B3 equities and Real Estate Investment Trusts (REITs/FIIs).
-- ⚙️ **Algorithmic Trading & Capital Allocation:** Structuring comprehensive proprietary trading setups for high-capital evaluation accounts. Focusing on strict mathematical drawdown controls, precise lot sizing, and hard daily risk caps (e.g., strict $700 daily loss limits) to guarantee capital preservation.
+- ⚙️ **Algorithmic Trading & Capital Allocation:** Structuring comprehensive proprietary trading setups for high-capital evaluation accounts. Focusing on strict mathematical drawdown controls, precise lot sizing, and hard daily risk caps (strict $700 daily loss limits) to guarantee capital preservation.
 - 📊 **Data-Driven Architecture:** Utilizing linear regressions, statistical correlation matrices, and interactive dashboards to build scalable investment pipelines.
-- 🌍 **Current Status:** Currently based in the Dominican Republic 🇩🇴, actively planning relocation to Brazil 🇧🇷 in the near term.
+- 🌍 **Current Status:** Currently based in the Dominican Republic 🇩🇴, actively planning relocation to Brazil 🇧🇷 by June 2026.
 
 ---
 
@@ -64,7 +64,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=josepsimoes&show_icons=true&theme=radical&hide_border=true" alt="José's GitHub Stats" />
   </a>
   <a href="https://github.com/josepsimoes">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josepsimoes&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josepsimoes&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
