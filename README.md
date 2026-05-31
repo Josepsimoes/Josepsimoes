@@ -1,4 +1,3 @@
-<!-- ANIMATED HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=013243&height=150&section=header&text=José%20Pedro%20Simões&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
 </div>
@@ -9,7 +8,6 @@
   <i>Architecting robust quantitative models, engineering alpha, and transforming raw market data into institutional-grade financial strategies.</i>
 </p>
 
-<!-- SOCIAL LINKS (FIXED LAYOUT & CENTERED) -->
 <div align="center">
   <a href="https://www.linkedin.com/in/josépedrosimões/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="35" width="35" alt="LinkedIn" />
@@ -33,42 +31,4 @@
 - 📉 **Risk Modeling & Analytics:** Developing robust Python infrastructure to calculate and monitor critical risk metrics, including historical/parametric VaR, CVaR, and executing complex Monte Carlo simulations for asset comparison.
 - 🏦 **Asset Valuation & Alpha Generation:** Integrating quantitative frameworks with deep fundamental analysis (aligned with CNPI standards) for B3 equities and Real Estate Investment Trusts (REITs/FIIs).
 - ⚙️ **Algorithmic Trading & Capital Allocation:** Structuring comprehensive proprietary trading setups for high-capital evaluation accounts. Focusing on strict mathematical drawdown controls, precise lot sizing, and hard daily risk caps (strict $700 daily loss limits) to guarantee capital preservation.
-- 📊 **Data-Driven Architecture:** Utilizing linear regressions, statistical correlation matrices, and interactive dashboards to build scalable investment pipelines.
-- 🌍 **Current Status:** Currently based in the Dominican Republic 🇩🇴, actively planning relocation to Brazil 🇧🇷 by June 2026.
-
----
-
-### 🛠️ Tech Stack & Core Tools
-
-<p align="left">
-  <!-- Core Dev Tools -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,jupyter,vscode,git,github" alt="Core Tools" />
-  </a>
-</p>
-<p align="left">
-  <!-- Data Science / Quant Specific Libraries -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="45" alt="Pandas" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" height="45" alt="NumPy" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original-wordmark.svg" height="45" alt="Plotly" />
-</p>
-
----
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/josepsimoes">
-    <img src="https://github-readme-stats.vercel.app/api?username=josepsimoes&show_icons=true&theme=radical&hide_border=true" alt="José's GitHub Stats" />
-  </a>
-  <a href="https://github.com/josepsimoes">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josepsimoes&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
-<!-- ANIMATED FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=013243&height=100&section=footer" alt="Footer Banner" />
-</div>
+- 📊 **Data-Driven Architecture:** Utilizing linear regressions, statistical correlation matrices, and interactive
