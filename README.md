@@ -1,68 +1,74 @@
-<!-- BANNER ANIMADO -->
+<!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=013243&height=150&section=header&text=José%20Pedro%20Simões&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=013243&height=150&section=header&text=José%20Pedro%20Simões&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
 </div>
 
-<h3 align="center">📈 Quant Analyst | 🐍 Python Developer | 📊 Data Scientist</h3>
+<h3 align="center">📈 Quantitative Analyst | 🐍 Python Developer | 📊 Data Scientist</h3>
 
 <p align="center">
-  <i>Transformando dados em decisões institucionais de alto nível no mercado financeiro.</i>
+  <i>Architecting robust quantitative models, engineering alpha, and transforming raw market data into institutional-grade financial strategies.</i>
 </p>
 
-<!-- BOTÕES DE REDES SOCIAIS (LOGOS REAIS) -->
-<p align="center">
+<!-- SOCIAL LINKS (FIXED LAYOUT & CENTERED) -->
+<div align="center">
   <a href="https://www.linkedin.com/in/josépedrosimões/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="45" width="45" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="35" width="35" alt="LinkedIn" />
   </a>
-  &nbsp; &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://kaggle.com/josesimoes" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" height="45" width="45" alt="Kaggle" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" height="35" width="35" alt="Kaggle" />
   </a>
-  &nbsp; &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:josebtsimoes@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" width="40" alt="Gmail" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="35" width="35" alt="Gmail" />
   </a>
+</div>
+
+<br>
+
+---
+
+### 🔬 Quantitative Engineering & Financial Research
+
+- 📉 **Risk Modeling & Analytics:** Developing robust Python infrastructure to calculate and monitor critical risk metrics, including historical/parametric VaR, CVaR, and executing complex Monte Carlo simulations for asset comparison.
+- 🏦 **Asset Valuation & Alpha Generation:** Integrating quantitative frameworks with deep fundamental analysis (aligned with CNPI standards) for B3 equities and Real Estate Investment Trusts (REITs/FIIs).
+- ⚙️ **Algorithmic Trading & Capital Allocation:** Structuring comprehensive proprietary trading setups for high-capital evaluation accounts. Focusing on strict mathematical drawdown controls, precise lot sizing, and hard daily risk caps (e.g., strict $700 daily loss limits) to guarantee capital preservation.
+- 📊 **Data-Driven Architecture:** Utilizing linear regressions, statistical correlation matrices, and interactive dashboards to build scalable investment pipelines.
+- 🌍 **Current Status:** Currently based in the Dominican Republic 🇩🇴, actively planning relocation to Brazil 🇧🇷 in the near term.
+
+---
+
+### 🛠️ Tech Stack & Core Tools
+
+<p align="left">
+  <!-- Core Dev Tools -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,jupyter,vscode,git,github" alt="Core Tools" />
+  </a>
+</p>
+<p align="left">
+  <!-- Data Science / Quant Specific Libraries -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="45" alt="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" height="45" alt="NumPy" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original-wordmark.svg" height="45" alt="Plotly" />
 </p>
 
 ---
 
-### 👨‍💻 Sobre o meu trabalho
-
-- 🏦 **Mercado de Capitais:** Construção de relatórios e análises alinhadas aos padrões CNPI, com foco na B3 (Ações e FIIs de Tijolo).
-- ⚙️ **Modelagem de Risco:** Desenvolvimento de infraestrutura em Python para cálculo de VaR, CVaR e simulações de Monte Carlo.
-- 📉 **Trading Proprietário:** Estruturação de planos de gestão de risco estritos, controle de *drawdown* e dimensionamento técnico de lotes operacionais.
-- 🌍 **Atuação:** Atualmente na República Dominicana 🇩🇴, com projetos e retorno programado ao Brasil 🇧🇷.
-
----
-
-### 🛠️ Ferramentas & Tecnologias
-
-<div align="center">
-  <!-- Ícones dinâmicos de habilidades -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,jupyter,git,github" alt="Skills" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <!-- Ícones específicos de Data Science/Finanças que não estão no skill-icons -->
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="50" width="50" alt="Pandas" />
-  &nbsp; &nbsp;
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="50" width="50" alt="NumPy" />
-  &nbsp; &nbsp;
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" height="50" width="50" alt="Plotly" />
-</div>
-
----
-
-### 📊 Visão Geral do GitHub
+### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josepsimoes&show_icons=true&theme=transparent&hide_border=true&title_color=013243&icon_color=013243&text_color=333333" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josepsimoes&layout=donut&theme=transparent&hide_border=true&title_color=013243&text_color=333333" alt="Linguagens Mais Usadas" width="48%" />
+  <a href="https://github.com/josepsimoes">
+    <img src="https://github-readme-stats.vercel.app/api?username=josepsimoes&show_icons=true&theme=radical&hide_border=true" alt="José's GitHub Stats" />
+  </a>
+  <a href="https://github.com/josepsimoes">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josepsimoes&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
-<!-- LINHA DE FECHAMENTO -->
+<!-- ANIMATED FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=013243&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=013243&height=100&section=footer" alt="Footer Banner" />
 </div>
