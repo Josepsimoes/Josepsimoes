@@ -1,27 +1,47 @@
-<h1 align="center">Hi 👋, I'm José Pedro! Welcome to my profile!</h1>
-<h3 align="center">🐍 Python Developer | Data Scientist | Quant Analyst.</h3>
+<h1 align="center">José Pedro Simões</h1>
+<h3 align="center">Quantitative Analyst | Python Developer | Data Scientist</h3>
 
-- 🌱 I'm currently learning to **Master the Python programming language to apply it in the financial market**
-
-- 👨‍💻 All of my projects are available here [https://github.com/Josepsimoes?tab=repositories](https://github.com/Josepsimoes?tab=repositories)
-
-- 💬 Ask me about **How programming can help in decision-making in the financial market**
-
-- 📫 How to reach me **josebtsimoes@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/jos%C3%A9pedrosim%C3%B5es/](https://www.linkedin.com/in/jos%C3%A9pedrosim%C3%B5es/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jos%c3%a9pedrosim%c3%b5es/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jos%c3%a9pedrosim%c3%b5es/" height="30" width="40" /></a>
-<a href="https://kaggle.com/jose simões" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jose simões" height="30" width="40" /></a>
-<a href="https://fb.com/zé talamoni (josé pedro biscalquini talamoni simões)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zé talamoni (josé pedro biscalquini talamoni simões)" height="30" width="40" /></a>
-<a href="https://instagram.com/ze_talamoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ze_talamoni" height="30" width="40" /></a>
+<p align="center">
+  <i>Transformando dados em decisões estratégicas no mercado financeiro. Focado em modelagem quantitativa, gestão de risco e otimização de portfólio.</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josepsimoes&show_icons=true&locale=en&layout=compact" alt="josepsimoes" /></p>
+### 📊 Sobre Mim
+- 📈 **Foco Atual:** Desenvolvimento de modelos quantitativos para o mercado de capitais, com forte ênfase na B3 (ações e Fundos Imobiliários).
+- 🧠 **Especialidades:** Construção de métricas de risco (VaR, CVaR), simulações de Monte Carlo, análise de correlação estatística e regressões lineares para precificação de ativos.
+- 🚀 **O que estou construindo:** Dashboards interativos e ferramentas em Python para automação de análises fundamentalistas e quantitativas.
+- 🤝 **Vamos conversar sobre:** Estratégias quantitativas, controle rigoroso de *drawdown* em operações e aplicação de Data Science em investimentos.
 
+---
 
+### 🛠️ Tech Stack & Ferramentas
+<p align="left">
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <!-- Pandas -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <!-- NumPy -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <!-- Plotly -->
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <!-- Jupyter -->
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+---
+
+### 📬 Conecte-se Comigo
+<p align="left">
+  <a href="https://www.linkedin.com/in/josépedrosimões/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://kaggle.com/josesimoes"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="mailto:josebtsimoes@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+### ⚡ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=josepsimoes&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josepsimoes&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" width="48%" />
+</p>
